@@ -10,3 +10,6 @@ i+=2
 i*=2
 i-=1
 print(i)
+
+print(3<2) #comparison operator returns boolean value
+print(3!=2)
